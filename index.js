@@ -1,4 +1,0 @@
-add()
-subtract()
-multiply()
-divide()
